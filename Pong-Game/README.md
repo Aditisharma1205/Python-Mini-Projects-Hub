@@ -1,50 +1,64 @@
-Pong Game 🎮
+# Pong Game 🏓
 
-A classic Pong game built using Python Turtle Graphics.
-This project includes moving paddles, a bouncing ball, collision detection, and a live scoreboard.
+A classic Pong Game built using Python Turtle graphics.
 
-Features
-Two-player Pong game
-Smooth paddle movement
-Ball collision physics
-Score tracking system
-Adjustable ball speed
-Built using Python Turtle module
-Controls
-Right Paddle
-⬆️ Up Arrow → Move Up
-⬇️ Down Arrow → Move Down
-Left Paddle
-W → Move Up
-S → Move Down
-Project Structure
-pong-game/
+## About the Project
+
+This project is a recreation of the classic Pong arcade game using Python.
+The game includes two paddles, a moving ball, score tracking, and collision detection.
+
+## Features
+
+* Two-player paddle controls
+* Ball movement and bouncing mechanics
+* Scoreboard system
+* Wall and paddle collision detection
+* Smooth gameplay using Turtle graphics
+
+## Technologies Used
+
+* Python
+* Turtle Module
+
+## Project Structure
+
+```bash id="4q8v9y"
+Pong-Game/
 │
 ├── main.py
 ├── paddle.py
 ├── ball.py
 ├── scorecard.py
 └── README.md
-Requirements
-Python 3.x
-Turtle module (comes pre-installed with Python)
-How to Run
-Clone the repository
-git clone https://github.com/your-username/pong-game.git
-Open the project folder
-cd pong-game
-Run the game
-python main.py
-Technologies Used
-Python
-Turtle Graphics
-Object-Oriented Programming (OOP)
-Future Improvements
-Add game over screen
-Add sound effects
-Add AI opponent
-Increase difficulty levels
-Add pause/restart feature
-Preview
+```
 
-Classic retro-style Pong gameplay using Turtle graphics.
+## How to Run
+
+1. Install Python on your system
+2. Download the project files
+3. Open the project folder
+4. Run:
+
+```bash id="mt8r9x"
+python main.py
+```
+
+## Controls
+
+### Right Paddle
+
+* Up Arrow → Move Up
+* Down Arrow → Move Down
+
+### Left Paddle
+
+* W → Move Up
+* S → Move Down
+
+## Concepts Practiced
+
+* Object-Oriented Programming
+* Turtle Graphics
+* Collision Detection
+* Game Development Basics
+* Keyboard Event Handling
