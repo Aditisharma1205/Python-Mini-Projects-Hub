@@ -13,7 +13,6 @@ screen.bgcolor("white")
 screen.title("Turtle Crossing Capstone")
 screen.listen()
 screen.onkeypress(player.up, "Up")
-
 game_is_on = True
 while game_is_on:
     time.sleep(0.1)
@@ -29,6 +28,4 @@ while game_is_on:
         player.go_to_starting_position()
         car_manager.level_up()
         scoreboard.increase_level()
-
-
 screen.exitonclick()
