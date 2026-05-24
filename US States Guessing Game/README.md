@@ -58,6 +58,3 @@ python main.py
 * Loops and Conditions
 * Lists
 * Pandas Library
-
-
-Aditi Sharma
