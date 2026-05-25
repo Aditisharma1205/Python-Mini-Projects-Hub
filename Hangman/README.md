@@ -51,7 +51,3 @@ python main.py
 * Functions
 * String Manipulation
 * Randomization
-
-## Author
-
-Aditi Sharma
