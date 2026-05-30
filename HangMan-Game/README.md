@@ -17,7 +17,6 @@ The game includes random word selection, user input handling, and visual progres
 * Beginner-friendly Python project
 
 ## Technologies Used
-
 * Python
 * Random Module
 
